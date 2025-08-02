@@ -26,9 +26,9 @@ const ThemedApp = () => {
             animation: "fadeIn 0.5s"
           }}>
           <Routes>
-            <Route path="Assignment_app/" element={<Home />} />
-            <Route path="Assignment_app/about" element={<About />} />
-            <Route path="Assignment_app/contact" element={<Contact />} />
+            <Route path="/" element={<Home />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>
       </div>
