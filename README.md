@@ -44,7 +44,7 @@ This is a theme-switchable React + TypeScript eCommerce-style UI built with **St
 ## 🚀 Deployment
 
 The app is live at:  
-👉 [https://abhishek-m06.github.io/](https://abhishek-m06.github.io/)
+👉 [https://abhishek-m06.github.io/Assignment_app/](https://abhishek-m06.github.io/Assignment_app/)
 
 To run locally:
 
