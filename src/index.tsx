@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-// import { HashRouter } from 'react-router-dom'; // 👈 import this
+import { BrowserRouter } from 'react-router-dom'; // 👈 import this
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -10,8 +10,8 @@ const root = ReactDOM.createRoot(
 
 root.render(
   <React.StrictMode>
-    {/* <HashRouter> */}
+    <BrowserRouter basename="/Assignment_app"> {/* 👈 add this wrapper */}
       <App />
-    {/* </HashRouter> */}
+    </BrowserRouter>
   </React.StrictMode>
 );
