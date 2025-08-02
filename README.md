@@ -44,13 +44,13 @@ This is a theme-switchable React + TypeScript eCommerce-style UI built with **St
 ## 🚀 Deployment
 
 The app is live at:  
-👉 [https://abhishek-m06.github.io/Ecommers_Theme](https://abhishek-m06.github.io/Ecommers_Theme)
+👉 [https://abhishek-m06.github.io/Assignment_app](https://abhishek-m06.github.io/Assignment_app)
 
 To run locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/Abhishek-m06/Ecommers_Theme.git
+git clone https://github.com/Abhishek-m06/Assignment_app.git
 
 # Install dependencies
 cd Ecommers_Theme
