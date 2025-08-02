@@ -39,7 +39,7 @@ const ThemedApp = () => {
 export default function App() {
   return (
     <ThemeProvider>
-      <Router basename="/Assignment_app" >
+      <Router>
         <ThemedApp />
       </Router>
     </ThemeProvider>
